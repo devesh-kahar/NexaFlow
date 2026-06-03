@@ -8,7 +8,7 @@ A fully responsive modern landing page built with **React** and **Tailwind CSS**
 
 ## 🌐 Live Demo
 
-[View Live →](https://nexaflow.vercel.app)
+[View Live →](https://nexa-flow-tan.vercel.app)
 
 ---
 
