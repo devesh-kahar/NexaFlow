@@ -122,7 +122,7 @@ npm run build
 ## 🙋‍♂️ Author
 
 **Devesh** — B.Tech CSE Student  
-[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourusername)
+[GitHub](https://github.com/devesh-kahar) · [LinkedIn](https://www.linkedin.com/in/devesh-kahar-029a79323/)
 
 ---
 
