@@ -78,7 +78,7 @@ NexaFlow/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/NexaFlow.git
+git clone https://github.com/devesh-kahar/NexaFlow.git
 ```
 
 2. Navigate to the project directory
@@ -121,11 +121,5 @@ npm run build
 
 ## 🙋‍♂️ Author
 
-**Devesh** — B.Tech CSE Student  
+**Devesh Kahar** — B.Tech CSE Student at Ramdeobaba University, Nagpur  
 [GitHub](https://github.com/devesh-kahar) · [LinkedIn](https://www.linkedin.com/in/devesh-kahar-029a79323/)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
